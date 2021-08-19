@@ -65,6 +65,10 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
 /* Site nav */
 .logo {
   display: flex;
@@ -470,10 +474,6 @@ img {
 }
 .button-list:last-child {
   margin-right: 0;
-}
-.section {
-  padding-top: 94px;
-  padding-bottom: 94px;
 }
 .examples-img-cover {
   position: relative;
